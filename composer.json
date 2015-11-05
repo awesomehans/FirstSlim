@@ -1,0 +1,15 @@
+{
+    "name": "vendor/first-slim",
+    "description": "Description of project FirstSlim.",
+    "authors": [
+        {
+            "name": "mobile",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "slim/slim": "2.6.2",
+        "twig/twig": "v1.23.0",
+        "slim/views": "0.1.3"
+    }
+}
